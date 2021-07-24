@@ -10,15 +10,15 @@
 
 ## Task 01: Regional Flash Flood in Germany on 2021-07-14
 
-[Task01](Task01/README.md)
+[Task01](Task01/README.md) (to be done)
 
 ## Task 02: Annual Temperature Time Series in North Rhine Westphalia
 
-[Task02](Task02/README.md)
+[Task02](Task02/README.md) (to be done)
 
 ## Task 03: PV Performance
 
-[Task03](Task03/README.md)
+[Task03](Task03/README.md) (ready)
 
 
 
