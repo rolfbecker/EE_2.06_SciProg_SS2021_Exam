@@ -12,9 +12,9 @@
 
 [Task01](Task01/README.md) (ready)
 
-## Task 02: Annual Temperature Time Series in North Rhine Westphalia
+## Task 02: Annual Temperature Time Series in North Rhine-Westphalia
 
-[Task02](Task02/README.md) (to be done)
+[Task02](Task02/README.md) (ready)
 
 ## Task 03: PV Performance
 
